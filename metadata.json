@@ -1,0 +1,6 @@
+{
+  "name": "Devil's Advocate - The Dialectical Crucible",
+  "description": "An unrelenting, hyper-critical intellectual sparring partner and debate arena that systematically dismantles premises, detects logical fallacies, and challenges your beliefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
